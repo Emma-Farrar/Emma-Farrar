@@ -13,9 +13,11 @@
 *Mapping the Gay Guides: Visualizing Queer Space and American Life (MGG)* is a web guide developed by Dr.’s Amanda Regan and Eric Gonzaba, in 2020, to help gay and queer travelers find locations to visit or take vacations where they would feel welcome and meet other gay people. It’s based on personal notebooks created in the 60’s and 70’s, by Bob Damron, who documented his travels as a gay man.  MGG sought to bring Damron’s guides to the internet so they could be easily used by the wider gay population. The MGG  associates geographical coordinates with each location mentioned by Damron. Thus the MGG provides an interactive visualization to its users.
 
 
+
 **Site Navigation**
 
 The homepage has a very helpful introduction to the website with a section specifically focused on navigating the site. The headers include About, Map, Vignettes, Methodology, Ethics, and News. There are also links to their Twitter and Github sites. It’s a smart idea to have other information platforms linked to the site, especially those easily accessible on a phone.  
+
 
 
 **Tabs**
@@ -35,6 +37,7 @@ The News tab has a number of articles about the project to help get people inter
 ![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/News.png)
 
 
+
 **The Map**
 
 This subheading on the website allows you to look at the location of each entry in Bob Damron's Address Book, along with information about how the locations were classified by the Damron Corporation. The dropdown menus above and the slider to the right can be used to filter the data by state, featured amenity, location type, or year. Then they pop up on the map so that the user can zoom in to find the exact location. 
@@ -47,6 +50,7 @@ Overall though, I really like the map feature. Collecting the data from Bob Damr
 ![A screenshot of the Table](https://Emma-Farrar.github.io/Emma-Farrar/images/Table.png)
 
 
+
 **Digital Humanities**
 
 This website does a good job blending text with visuals, as well as interactive attributes. The map is useful to locate places that existed at the time. By using different headers, a visitor can click through them to learn more about how and why the directors made this project.
@@ -56,7 +60,6 @@ I think the subject matter itself is a good humanities project. It deals with so
 One critique I have concerns using the website on my phone; it caused everything to feel squished together. The words went right to the edge of the page and the map didn’t fit. I had to do a lot of zooming out to see everything. However, I think this is a great website to view on a larger platform with a big screen. 
 
 ![A screenshot of the homescreen on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Phomepage.png)
-![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Pmap.png)
 
 
 Overall, I think that this project was well put together especially in terms of a friendly user mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
