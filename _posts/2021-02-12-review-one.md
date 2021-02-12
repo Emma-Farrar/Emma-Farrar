@@ -28,7 +28,7 @@ In the Vignette tab you can choose from short essays about different places with
 
 The Methodology tab is all about how the dataset was created. This explains how the map was created and why certain fields were picked. I like the included graph which adds another visualization to further explain the research. 
 
-![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/SGraph.png)
+![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/SGraph.jpg)
 
 The Ethics tab is a short explanation of the meaning and methodology behind the project. It demonstrates the directors’ credibility on the subject and their passion about it. I think this was a nice section to include so that visitors have a better understanding about the importance of this project and how useful it could be in the gay community. 
 
@@ -59,8 +59,8 @@ I think the subject matter itself is a good humanities project. It deals with so
 
 One critique I have concerns using the website on my phone; it caused everything to feel squished together. The words went right to the edge of the page and the map didn’t fit. I had to do a lot of zooming out to see everything. However, I think this is a great website to view on a larger platform with a big screen. 
 
-![A screenshot of the homescreen on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Phomepage.png)
-![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Pmap.png)
+![A screenshot of the homescreen on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Phomepage.PNG)
+![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/Pmap.PNG)
 
 
 Overall, I think that this project was well put together especially in terms of a friendly user mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
