@@ -25,7 +25,7 @@ In the Vignette tab you can choose from short essays about different places with
 
 ![A screenshot of the Vignette Tab](https://Emma-Farrar.github.io/Emma-Farrar/images/Vignettes.png)
 
-The Methodology tab is all about how the dataset was created. This explains how the map was created and why certain fields were picked. I like the included graph which adds another visualization to further explain the research. 
+The Methodology tab is all about how the dataset was created. This explains the map and why certain fields were picked. I like the included graph which adds another visualization to further explain the research. 
 
 ![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/SGraph.jpg)
 
@@ -39,11 +39,11 @@ The News tab has a number of articles about the project to help get people inter
 
 **The Map**
 
-This subheading on the website allows you to look at the location of each entry in Bob Damron's Address Book, along with information about how the locations were classified by the Damron Corporation. The dropdown menus above and the slider to the right can be used to filter the data by state, featured amenity, location type, or year. Then they pop up on the map so that the user can zoom in to find the exact location. 
+This subheading on the website allows you to look at the location of each entry in *Bob Damron's Address Book*, along with information about how the locations were classified by the Damron Corporation. The dropdown menus above and the slider to the right can be used to filter the data by state, featured amenity, location type, or year. Then they pop up on the map so that the user can zoom in to find the exact location. 
 
 Underneath the map is a table that has all of the locations labeled. I thought this was more user friendly than just the map. I think the idea and aesthetic of the map is a good idea, but I feel like you have to zoom in a lot to be able to find a specific location. Being able to click on the point and zoom in is useful but including a visualization of the actual place you want to visit might be a nice addition.
 
-Overall though, I really like the map feature. Collecting the data from Bob Damron's Address Book and transforming it into an interactive map makes it accessible online.
+Overall though, I really like the map feature. Collecting the data from Bob *Damron's Address Book* and transforming it into an interactive map makes it accessible online.
 
 ![A screenshot of the Map](https://Emma-Farrar.github.io/Emma-Farrar/images/Map.png)
 ![A screenshot of the Table](https://Emma-Farrar.github.io/Emma-Farrar/images/Table.png)
@@ -52,9 +52,9 @@ Overall though, I really like the map feature. Collecting the data from Bob Damr
 
 **Digital Humanities**
 
-This website does a good job blending text with visuals, as well as interactive attributes. The map is useful to locate places that existed at the time. By using different headers, a visitor can click through them to learn more about how and why the directors made this project.
+This website does a good job blending text with visuals, as well as interactive attributes. The map is useful to locate places that existed at the time. By using different headers, a visitor can click through them to learn more about how and why the project was created. 
 
-I think the subject matter itself is a good humanities project. It deals with society and culture which is especially important when traveling. Being a minority in a society, it was important to have some type of guide specifically for gays. It sent the message that you were important and communities would welcome you with open arms.
+I think the subject matter itself is a good humanities project. It deals with society and culture which is especially important when traveling. Being a minority in a society, it was important to have some type of guide specifically for them. It sent the message that you were important and communities would welcome you with open arms.
 
 **iPhone**
 
