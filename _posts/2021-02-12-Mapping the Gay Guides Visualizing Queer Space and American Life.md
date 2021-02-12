@@ -6,7 +6,6 @@
 
 ![A screenshot of the MGG homepage](https://Emma-Farrar.github.io/Emma-Farrar/images/Homepage.png)
 
-
 **About**
 
 *Mapping the Gay Guides: Visualizing Queer Space and American Life (MGG)* is a web guide developed by Dr.’s Amanda Regan and Eric Gonzaba, in 2020, to help gay and queer travelers find locations to visit or take vacations where they would feel welcome and meet other gay people. It’s based on personal notebooks created in the 60’s and 70’s, by Bob Damron, who documented his travels as a gay man. MGG sought to bring Damron’s guides to the internet so they could be used by the wider gay population. The MGG associates geographical coordinates with each location mentioned by Damron. Thus the MGG provides an interactive visualization to its users.
@@ -23,24 +22,17 @@ The homepage has a very helpful introduction to the website with a section speci
 
 In the Vignette tab you can choose from short essays about different places with reviews for each of them. They include images and some have attached videos that break up the text and make it more interesting. 
 
-
 ![A screenshot of the Vignette Tab](https://Emma-Farrar.github.io/Emma-Farrar/images/Vignettes.png)
-
 
 The Methodology tab is all about how the dataset was created. This explains the map and why certain fields were picked. I like the included graph which adds another visualization to further explain the research. 
 
-
 ![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/SGraph.jpg)
-
 
 The Ethics tab is a short explanation of the meaning and methodology behind the project. It demonstrates the directors’ credibility on the subject and their passion about it. This was a nice section to include so that visitors have a better understanding about the importance of this project and how useful it could be in the gay community. 
 
 The News tab has a number of articles about the project to help get people interested in the idea of a gay travel guide. It might be useful to have a short introduction so that when you clicked that tab you knew exactly what you were looking at.
 
-
 ![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/News.png)
-
-
 
 **The Map**
 
@@ -50,11 +42,8 @@ Underneath the map is a table that has all of the locations labeled. I thought t
 
 Overall though, I really like the map feature. Collecting the data from Bob *Damron's Address Book* and transforming it into an interactive map makes it accessible online.
 
-
 ![A screenshot of the Map](https://Emma-Farrar.github.io/Emma-Farrar/images/Map.png)
 ![A screenshot of the Table](https://Emma-Farrar.github.io/Emma-Farrar/images/Table.png)
-
-
 
 **Digital Humanities**
 
@@ -66,10 +55,7 @@ I think the subject matter itself is a good humanities project. It deals with so
 
 One critique I have concerns using the website on my phone; it caused everything to feel squished together. The words went right to the edge of the page and the map didn’t fit. I had to do a lot of zooming out to see everything. However, I think this is a great website to view on a larger platform with a big screen. 
 
-
 ![A screenshot of the homepage on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPhomepage.png)
 ![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPmap.png)
 
-
 Overall, I think that this project was well put together especially in terms of a friendly user mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
-
