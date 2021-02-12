@@ -3,7 +3,6 @@
 **Project:** Mapping the Gay Guides Visualizing Queer Space and American Life <br />
 **Project Director(s):**[Dr. Amanda Regan](https://www.mappingthegayguides.org/regan/) and [Dr. Eric Gonzaba](https://www.mappingthegayguides.org/gonzaba/) <br />
 **Project URL:** [https://www.mappingthegayguides.org](https://www.mappingthegayguides.org/) <br />
-
 *Reviewed By Emma Farrar*
 
 ![A screenshot of the MGG homepage](https://Emma-Farrar.github.io/Emma-Farrar/images/Homepage.png)
