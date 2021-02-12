@@ -58,4 +58,4 @@ One critique I have concerns using the website on my phone; it caused everything
 ![A screenshot of the homepage on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPhomepage.png)
 ![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPmap.png)
 
-Overall, I think that this project was well put together especially in terms of a friendly user mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
+Overall, I think that this project was well put together especially in terms of a user friendly mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
