@@ -1,10 +1,8 @@
 # Review: *Mapping the Gay Guides Visualizing Queer Space and American Life*
 
-**Project:** Mapping the Gay Guides Visualizing Queer Space and American Life
-
-**Project Director(s):**[Dr. Amanda Regan](https://www.mappingthegayguides.org/regan/) and [Dr. Eric Gonzaba](https://www.mappingthegayguides.org/gonzaba/)
-
-**Project URL:** [https://www.mappingthegayguides.org](https://www.mappingthegayguides.org/)
+**Project:** Mapping the Gay Guides Visualizing Queer Space and American Life <br />
+**Project Director(s):**[Dr. Amanda Regan](https://www.mappingthegayguides.org/regan/) and [Dr. Eric Gonzaba](https://www.mappingthegayguides.org/gonzaba/) <br />
+**Project URL:** [https://www.mappingthegayguides.org](https://www.mappingthegayguides.org/) <br />
 
 *Reviewed By Emma Farrar*
 
