@@ -61,8 +61,8 @@ I think the subject matter itself is a good humanities project. It deals with so
 
 One critique I have concerns using the website on my phone; it caused everything to feel squished together. The words went right to the edge of the page and the map didn’t fit. I had to do a lot of zooming out to see everything. However, I think this is a great website to view on a larger platform with a big screen. 
 
-![A screenshot of the homepage on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPhomepage.PNG)
-![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPmap.PNG)
+![A screenshot of the homepage on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPhomepage.png)
+![A screenshot of the map on iphone XS screen](https://Emma-Farrar.github.io/Emma-Farrar/images/SPmap.png)
 
 Overall, I think that this project was well put together especially in terms of a friendly user mindset. Combining datasets with interactive features makes the whole experience more enjoyable and realistically functional.
 
