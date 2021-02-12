@@ -10,7 +10,7 @@
 
 **About**
 
-*Mapping the Gay Guides: Visualizing Queer Space and American Life (MGG)* is a web guide developed by Dr.’s Amanda Regan and Eric Gonzaba, in 2020, to help gay and queer travelers find locations to visit or take vacations where they would feel welcome and meet other gay people. It’s based on personal notebooks created in the 60’s and 70’s, by Bob Damron, who documented his travels as a gay man.  MGG sought to bring Damron’s guides to the internet so they could be used by the wider gay population. The MGG  associates geographical coordinates with each location mentioned by Damron. Thus the MGG provides an interactive visualization to its users.
+*Mapping the Gay Guides: Visualizing Queer Space and American Life (MGG)* is a web guide developed by Dr.’s Amanda Regan and Eric Gonzaba, in 2020, to help gay and queer travelers find locations to visit or take vacations where they would feel welcome and meet other gay people. It’s based on personal notebooks created in the 60’s and 70’s, by Bob Damron, who documented his travels as a gay man. MGG sought to bring Damron’s guides to the internet so they could be used by the wider gay population. The MGG associates geographical coordinates with each location mentioned by Damron. Thus the MGG provides an interactive visualization to its users.
 
 
 
@@ -55,7 +55,9 @@ Overall though, I really like the map feature. Collecting the data from Bob Damr
 
 This website does a good job blending text with visuals, as well as interactive attributes. The map is useful to locate places that existed at the time. By using different headers, a visitor can click through them to learn more about how and why the directors made this project.
 
-I think the subject matter itself is a good humanities project. It deals with society and culture which is especially important when traveling. Being a minority in a society, it was important to have some type of guide specifically for them. It sent the message that you were important and communities would welcome you with open arms.
+I think the subject matter itself is a good humanities project. It deals with society and culture which is especially important when traveling. Being a minority in a society, it was important to have some type of guide specifically for gays. It sent the message that you were important and communities would welcome you with open arms.
+
+**iPhone**
 
 One critique I have concerns using the website on my phone; it caused everything to feel squished together. The words went right to the edge of the page and the map didn’t fit. I had to do a lot of zooming out to see everything. However, I think this is a great website to view on a larger platform with a big screen. 
 
