@@ -28,7 +28,7 @@ In the Vignette tab you can choose from short essays about different places with
 
 The Methodology tab is all about how the dataset was created. This explains how the map was created and why certain fields were picked. I like the included graph which adds another visualization to further explain the research. 
 
-![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/Graph.png)
+![A screenshot of the Graph](https://Emma-Farrar.github.io/Emma-Farrar/images/SGraph.png)
 
 The Ethics tab is a short explanation of the meaning and methodology behind the project. It demonstrates the directors’ credibility on the subject and their passion about it. I think this was a nice section to include so that visitors have a better understanding about the importance of this project and how useful it could be in the gay community. 
 
