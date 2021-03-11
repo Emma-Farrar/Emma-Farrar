@@ -32,7 +32,7 @@ At first I was confused about what the different letters meant in the list of so
 
 I also didn’t like that the instructions for using the map are not on the Suffrage Map tab. To understand how the map works you have to go to Our Mission and Map tabs. It would be more helpful to have all the map information in one spot so that you don’t  have to go back and forth. 
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/Zoom.png)
+![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/SZoom.jpg)
 
 Overall I found the map a little confusing. I think the colored dots are helpful, but the key is difficult to understand. If you click the drop-down arrow next to the key categories it gives you a list of the women who are a part of the colored dot group. This can be helpful when looking for a specific woman. Once you find her, you can lock on the name and the map will automatically zoom in on her specific location. I found this feature very helpful because it’s hard to decipher where all of the points are when the map is zoomed out. 
 
