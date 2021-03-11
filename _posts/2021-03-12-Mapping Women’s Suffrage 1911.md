@@ -1,14 +1,14 @@
 # Review: *Mapping Women’s Suffrage 1911*
 
-**Project:** Mapping Women’s Suffrage 1911<br />
-**Project Director(s):** Tara Morton <br />
+**Project:** Mapping Women’s Suffrage 1911<br/>
+**Project Director(s):** Tara Morton <br/>
 **Project URL:** [https://www.mappingwomenssuffrage.org.uk/](https://www.mappingwomenssuffrage.org.uk/) <br />
 
 ![A screenshot of the MWS homepage](https://Emma-Farrar.github.io/Emma-Farrar/images/SuffrageHomepage.png)
 
 **About**
 
-Mapping Women’s Suffrage 1911 (MWS) describes the mission to identify and map the locations, together with the lives and materials, of as many Votes for Women campaigners as possible in cities, towns and villages across England in 1911. 
+*Mapping Women’s Suffrage 1911* (MWS) describes the mission to identify and map the locations, together with the lives and materials, of as many votes for women campaigners as possible in cities, towns and villages across England in 1911. 
 
 The project combines research and materials from academics, local history enthusiasts, family researchers, archivists and the public to showcase the lives of suffragette women.
 
@@ -48,9 +48,9 @@ A neat feature of  this website is that the project directors have kept it updat
 
 **Phone**
 
+When I looked at the website on my phone it was set up pretty nicely. The spacing of the text made it easy to read and the tab menu was easily accessible on the right side. Viewing the map it has the option “View the Map” (Mobile Version). Even with this different version the Map was a little hard to read. I had this same issue with another website I reviewed. Maybe interactive maps are too complicated to view on a phone screen?
+
 ![A screenshot of the MWS Phone Text](https://Emma-Farrar.github.io/Emma-Farrar/images/PhoneText.jpg)
 ![A screenshot of the MWS Phone Map](https://Emma-Farrar.github.io/Emma-Farrar/images/PhoneSMap.jpg)
-
-When I looked at the website on my phone it was set up pretty nicely. The spacing of the text made it easy to read and the tab menu was easily accessible on the right side. Viewing the map it has the option “View the Map” (Mobile Version). Even with this different version the Map was a little hard to read. I had this same issue with another website I reviewed. Maybe interactive maps are too complicated to view on a phone screen?
 
 Overall, I think that this project was well put together especially in terms of a user friendly mindset. Combining historic information with interactive features makes the whole experience enjoyable and functional.
