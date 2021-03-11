@@ -6,7 +6,7 @@
 
 ![A screenshot of the MWS homepage](https://Emma-Farrar.github.io/Emma-Farrar/images/Homepage.png)
 
-**About **
+**About**
 
 Mapping Women’s Suffrage 1911 (MWS) describes the mission to identify and map the locations, together with the lives and materials, of as many Votes for Women campaigners as possible in cities, towns and villages across England in 1911. 
 
@@ -37,6 +37,7 @@ I think the subject matter itself is a good humanities project. It deals with so
 A neat feature of  this website is that the project directors have kept it updated with current information. With all of the interactive features visitors will feel they can engage and even connect with others who might be interested in the topic.
 
 **Phone**
+
 When I looked at the website on my phone it was set up pretty nicely. The spacing of the text made it easy to read and the tab menu was easily accessible on the right side. Viewing the map it has the option “View the Map” (Mobile Version). Even with this different version the Map was a little hard to read. I had this same issue with another website I reviewed. Maybe interactive maps are too complicated to view on a phone screen?
 
 Overall, I think that this project was well put together especially in terms of a user friendly mindset. Combining historic information with interactive features makes the whole experience enjoyable and functional.
