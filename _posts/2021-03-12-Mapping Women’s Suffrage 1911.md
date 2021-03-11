@@ -48,7 +48,8 @@ A neat feature of  this website is that the project directors have kept it updat
 
 **Phone**
 
-![A screenshot of the MWS Phone](https://Emma-Farrar.github.io/Emma-Farrar/images/PhoneText.jpg)
+![A screenshot of the MWS Phone Text](https://Emma-Farrar.github.io/Emma-Farrar/images/PhoneText.jpg)
+![A screenshot of the MWS Phone Map](https://Emma-Farrar.github.io/Emma-Farrar/images/PhoneSMap.jpg)
 
 When I looked at the website on my phone it was set up pretty nicely. The spacing of the text made it easy to read and the tab menu was easily accessible on the right side. Viewing the map it has the option “View the Map” (Mobile Version). Even with this different version the Map was a little hard to read. I had this same issue with another website I reviewed. Maybe interactive maps are too complicated to view on a phone screen?
 
