@@ -44,7 +44,7 @@ I think the subject matter itself is a good humanities project. It deals with so
 
 A neat feature of  this website is that the project directors have kept it updated with current information. With all of the interactive features visitors will feel they can engage and even connect with others who might be interested in the topic.
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/Blog.png)
+![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/SBlog.png)
 
 **Phone**
 
