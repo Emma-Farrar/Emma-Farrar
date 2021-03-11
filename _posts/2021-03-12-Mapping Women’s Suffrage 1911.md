@@ -18,13 +18,13 @@ The project combines research and materials from academics, local history enthus
 
 When you first arrive at the website you are met with a slideshow that provides clues to what the website is about. There are a lot of tabs so it’s nice that they are spread out so it’s easier to differentiate them. There are also links to their other social media sites which allows more people to learn about the project.
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/Text.png)
+![A screenshot of the MWS Text](https://Emma-Farrar.github.io/Emma-Farrar/images/Text.png)
 
 The website has a nice ratio of images to writings. I found the broken-up text relatively easy to read and understand. I enjoyed the different ways to learn about everything, from podcasts to videos. This makes the whole experience more interactive for the user with fun creative ways to present the information.
 
 **Suffrage Map**
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/SuffrageMap.png)
+![A screenshot of the MWS Suffrage Map](https://Emma-Farrar.github.io/Emma-Farrar/images/SuffrageMap.png)
 
 The Suffrage Map shows the locations of suffrage campaigners and their roles in the Votes for Women campaign. The map itself has three different versions to look at; Historic, Simple, and Full. Each woman is denoted by a circular colored dot at the address where they were living in 1911. The map color codes each campaigner icon by which suffrage society they were most active with at that time. 
 
@@ -32,7 +32,7 @@ At first I was confused about what the different letters meant in the list of so
 
 I also didn’t like that the instructions for using the map are not on the Suffrage Map tab. To understand how the map works you have to go to Our Mission and Map tabs. It would be more helpful to have all the map information in one spot so that you don’t  have to go back and forth. 
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/SZoom.jpg)
+![A screenshot of the MWS Suffragette Profile](https://Emma-Farrar.github.io/Emma-Farrar/images/SZoom.jpg)
 
 Overall I found the map a little confusing. I think the colored dots are helpful, but the key is difficult to understand. If you click the drop-down arrow next to the key categories it gives you a list of the women who are a part of the colored dot group. This can be helpful when looking for a specific woman. Once you find her, you can lock on the name and the map will automatically zoom in on her specific location. I found this feature very helpful because it’s hard to decipher where all of the points are when the map is zoomed out. 
 
@@ -44,7 +44,7 @@ I think the subject matter itself is a good humanities project. It deals with so
 
 A neat feature of  this website is that the project directors have kept it updated with current information. With all of the interactive features visitors will feel they can engage and even connect with others who might be interested in the topic.
 
-![A screenshot of the MWS Navigation](https://Emma-Farrar.github.io/Emma-Farrar/images/SBlog.jpg)
+![A screenshot of the MWS Blog](https://Emma-Farrar.github.io/Emma-Farrar/images/SBlog.jpg)
 
 **Phone**
 
