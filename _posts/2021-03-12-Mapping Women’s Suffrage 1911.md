@@ -1,16 +1,16 @@
 # Review: *Mapping Women’s Suffrage 1911*
 
 **Project:** Mapping Women’s Suffrage 1911<br/>
-**Project Director(s):** Tara Morton <br/>
+**Project Director:** Tara Morton <br/>
 **Project URL:** [https://www.mappingwomenssuffrage.org.uk/](https://www.mappingwomenssuffrage.org.uk/) <br />
 
 ![A screenshot of the MWS homepage](https://Emma-Farrar.github.io/Emma-Farrar/images/SuffrageHomepage.png)
 
 **About**
 
-*Mapping Women’s Suffrage 1911* (MWS) describes the mission to identify and map the locations, together with the lives and materials, of as many votes for women campaigners as possible in cities, towns and villages across England in 1911. 
+*Mapping Women’s Suffrage 1911* (MWS) describes the mission to identify and map the locations of as many votes for women campaigners in cities, towns and villages across England in 1911. 
 
-The project combines research and materials from academics, local history enthusiasts, family researchers, archivists and the public to showcase the lives of suffragette women.
+The project combines research and materials from academics, local history enthusiasts, family researchers, archivists and the public to showcase the lives of suffragette women and the suffrage movement across the country in 1911.
 
 **Navigation**
 
