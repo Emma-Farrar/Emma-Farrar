@@ -26,7 +26,7 @@ The website has a nice ratio of images to writings. I found the broken-up text r
 
 ![A screenshot of the MWS Suffrage Map](https://Emma-Farrar.github.io/Emma-Farrar/images/SuffrageMap.png)
 
-The Suffrage Map shows the locations of suffrage campaigners and their roles in the Votes for Women campaign. The map itself has three different versions to look at; Historic, Simple, and Full. Each woman is denoted by a circular colored dot at the address where they were living in 1911. The map color codes each campaigner icon by which suffrage society they were most active with at that time. The Map is made by using Leaflet by JavaScript which makes it interactive.
+The Suffrage Map shows the locations of suffrage campaigners and their roles in the Votes for Women campaign. The map itself has three different versions to look at; Historic, Simple, and Full. Each woman is denoted by a circular colored dot at the address where they were living in 1911. The map color codes each campaigner icon by which suffrage society they were most active with at that time. The Map is made using Leaflet by JavaScript which makes it interactive.
 
 At first I was confused about what the different letters meant in the list of societies, but then noticed the Suffrage Society Guide PDF on the bottom of the page. The PDF details what each abbreviation stands for and gives a short blurb on them. I thought this was helpful, but I wish instead of abbreviations the map had the full titles. By having to click on the PDF you end up having to click back and forth between the two. Since there are so many abbreviations it's hard to memorize them.  
 
