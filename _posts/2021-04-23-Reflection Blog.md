@@ -19,6 +19,6 @@ Out of all the assignments, I really enjoyed blogging. It was fun trying out a d
 
 Since digital humanities relates to technology using Twitter was a clever idea!  Because you’re only allowed 40 characters, you really have to think carefully about what you want to say. This was more interesting than just writing on the discussion board. Most people use Twitter so this forum was great to be able to get engagement from others. 
 
-![A screenshot of the twitter post](https://Emma-Farrar.github.io/Emma-Farrar/images/TwitterPost.png)
+![A screenshot of the twitter post](https://Emma-Farrar.github.io/Emma-Farrar/images/twitterpost.png)
 
 Even though I’m a senior and have taken other writing courses, I’m still learning how to be a stronger writer. I never really thought about the order of things and what might make sense to people when reading my work. Of course this depends on the audience, but I’m also learning about the perfect balance of informal and formal writing. Everything I’ve learned in this class has real life applications especially in the work field I would like to pursue. 
